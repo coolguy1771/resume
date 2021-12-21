@@ -1,0 +1,24 @@
+# Main Bits
+name = "Orbit"
+license = "MIT"
+licenselink = "//github.com/aerohub/hugo-orbit-theme/blob/master/LICENSE.md"
+description = "Responsive Resume/CV Theme for Developers"
+homepage = "//github.com/aerohub/hugo-orbit-theme"
+tags = ["cv", "resume", "colour schemes"]
+features = ["responsive", "colour schemes"]
+min_version = 0.16
+
+# Original Author of the Theme
+[author]
+  name = "Pavel Kanyshev"
+  homepage = "//github.com/aerohub"
+
+# If porting an existing theme
+[original]
+  name = "Xiaoying Riley"
+  homepage = "//github.com/xriley"
+  repo = "//github.com/xriley/Orbit-Theme"
+
+# After Hugo 0.60, this is necessary to use HTML in markup documents.
+[markup.goldmark.renderer]
+unsafe = true
