@@ -3,7 +3,7 @@ name: Cross Compile resume
 
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
 
 jobs:
   build:
@@ -41,4 +41,4 @@ jobs:
           push: true
           no-cache: true
           tags: |
-            coolguy1771/resume:latest
+            coolguy1771/resume-dot-witl-dot-xyz:latest

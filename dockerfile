@@ -1,5 +1,5 @@
 # Set up Hugo in Alpine to build the source
-ARG HUGODIR="/opt/danmanners-dot-com"
+ARG HUGODIR="/opt/witl-dot-xyz"
 
 FROM alpine:3.12 as hugo_build
 ARG HUGODIR
