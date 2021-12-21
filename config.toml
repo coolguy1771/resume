@@ -98,10 +98,7 @@ disable404 = true
         enable = true
         title = "Skills & Proficiency"
         [[params.rskill.list]]
-        skill = "Java"
-        level = "%"
-        [[params.rskill.list]]
-        skill = "Git"
+        skill = "Docker & Kubernetes"
         level = "%"
         [[params.rskill.list]]
         skill = "Linux"
@@ -110,8 +107,15 @@ disable404 = true
         skill = "Automation Tooling"
         level = "%"
         [[params.rskill.list]]
-        skill = "Docker & Kubernetes"
+        skill = "Git"
         level = "%"
+        [[params.rskill.list]]
+        skill = "Go"
+        level = "%"
+        [[params.rskill.list]]
+        skill = "Java"
+        level = "%"
+        
 
 # Main body sections
     # You may use markdown in summary, details and intro fields. But don't overdose, it's resume!:)
@@ -120,7 +124,9 @@ disable404 = true
         enable = true
         icon = "fa-user"
         title = "Career Profile"
-        summary = """
+        summary = """As a Student learning Computer Science, I enjoy taking on new and interesting challenges to improve my own skills. I take pride in my work and am always trying to provide the best end result that I can.
+        \nI am currently learning Automation Tooling (Ansible) and machine configuration using Terraform. I am also taking a specific focus on kubernetes and the automation, configuration, and management of clusters. Additonally, I also have experiance with troubleshooting hardware, software, and applications with most major operating systems and other major applications.
+        \nI am always seeking new opportunities to develop cohesive systems for users and companies. 
         """
 
     # Experiences section
