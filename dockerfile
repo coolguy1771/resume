@@ -20,4 +20,4 @@ LABEL MAINTAINER="Tyler Witlin"
 ARG HUGODIR
 COPY --from=hugo_build ${HUGODIR}/public /usr/share/nginx/html
 
-RUN sed -i 's/#ZgotmplZ/tel:19147155428/g' /usr/share/nginx/html/index.html
+#RUN sed -i 's/#ZgotmplZ/tel:19147155428/g' /usr/share/nginx/html/index.html
