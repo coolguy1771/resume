@@ -126,8 +126,7 @@ disable404 = true
         title = "Career Profile"
         summary = """As a Student learning Computer Science, I enjoy taking on new and interesting challenges to improve my own skills. I take pride in my work and am always trying to provide the best end result that I can.
         \nI am currently learning Automation Tooling (Ansible) and machine configuration using Terraform. I am also taking a specific focus on kubernetes and the automation, configuration, and management of clusters. Additonally, I also have experiance with troubleshooting hardware, software, and applications with most major operating systems and other major applications.
-        \nI am always seeking new opportunities to develop cohesive systems for users and companies. 
-        """
+        \nI am always seeking new opportunities to develop cohesive systems for users and companies."""
 
     # Experiences section
     [params.experiences]
@@ -151,12 +150,12 @@ disable404 = true
         [[params.projects.list]]
         title = "Home Kubernetes Cluster"
         url = "https://github.com/coolguy1771/k3s"
-        tagline = """Self deployed Kubernetes cluster at home based. Technologies used include:
-        \n- Ansible & Terraform configurations to automate deoployment of the cluster
-        \n- Renovate to create and merge pull requests
-        \n- Grafana, Prometheus and Loki monitoring stack
-        \n- Fluxcd 
-        \nThe cluster was designed on GitOps principals and leverages automation techologies """
+        tagline = """Self deployed Kubernetes cluster at home based upon the k8s-at-home template repository. Technologies used include:
+        \n- Ansible & Terraform configurations to automate deoployment and creation of the cluster
+        \n- Renovate to create and merge pull requests updating cluster applications
+        \n- Full monitoring stack featuring Grafana, Prometheus, Loki, and Thanos 
+        \n- Fluxcd as a continuous delivery service manging versions and update of Helm charts 
+        \nThe cluster was designed on GitOps principals and leverages automation techologies."""
 
 
         
