@@ -1,5 +1,5 @@
 # Cross compile the website docker container and push to Docker Hub
-name: Cross Compile resume-danmanners-dot-com
+name: Cross Compile resume-witl-dot-xyz
 
 on:
   push:
