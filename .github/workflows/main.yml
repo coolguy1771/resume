@@ -46,5 +46,5 @@ jobs:
           platforms: linux/amd64,linux/arm64
           push: true
           tags: |
-            ghcr.io/coolguy1771/resume:1.0.0
-            coolguy1771/resume-dot-witl-dot-xyz:1.0.0
+            ghcr.io/coolguy1771/resume:1.0.1
+            coolguy1771/resume-dot-witl-dot-xyz:1.0.1
