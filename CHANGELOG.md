@@ -5,6 +5,21 @@ All notable changes to this project will be documented in this file.
 
 ### Bug Fixes
 
+- Add leadership section for 1.3.0
+
+## [1.3.0] - 2022-01-15
+
+### Bug Fixes
+
+- Build tag for image versions
+- Change tag structure
+- Change tag structure again
+- Chage to only take tags
+
+## [1.2.0] - 2022-01-15
+
+### Bug Fixes
+
 - Change hugo dir
 - Change build file
 - Remove tag
