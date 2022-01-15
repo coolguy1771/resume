@@ -125,7 +125,7 @@ disable404 = true
         icon = "fa-user"
         title = "Career Profile"
         summary = """As a Student learning Computer Science, I enjoy taking on new and interesting challenges to improve my own skills. I take pride in my work and am always trying to provide the best end result that I can.
-        \nI am currently learning Automation Tooling (Ansible) and machine configuration using Terraform. I am also taking a specific focus on kubernetes and the automation, configuration, and management of clusters. Additonally, I also have experiance with troubleshooting hardware, software, and applications with most major operating systems and other major applications.
+        \nI am currently learning Automation Tooling (Ansible) and machine configuration using Terraform. I am also taking a specific focus on kubernetes and the automation, configuration, and management of clusters. Additionally, I also have experience with troubleshooting hardware, software, and applications with most major operating systems and other major applications.
         \nI am always seeking new opportunities to develop cohesive systems for users and companies."""
 
     # Experiences section
