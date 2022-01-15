@@ -31,7 +31,7 @@ disable404 = true
     [params.profile]
         name = "Tyler Witlin"
         tagline = ""
-        avatar = "tyler.png"
+        avatar = "tyler.jpeg"
 
     # Contact section
     [params.contact]
