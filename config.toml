@@ -124,9 +124,9 @@ disable404 = true
         enable = true
         icon = "fa-user"
         title = "Career Profile"
-        summary = """As a Student learning Computer Science, I enjoy taking on new and interesting challenges to improve my own skills. I take pride in my work and am always trying to provide the best end result that I can.
-        \nI am currently learning Automation Tooling (Ansible) and machine configuration using Terraform. I am also taking a specific focus on kubernetes and the automation, configuration, and management of clusters. Additionally, I also have experience with troubleshooting hardware, software, and applications with most major operating systems and other major applications.
-        \nI also have experience with leadership. As an Eagle Scout and member of the Order of the Arrow, I was in charge of the planning, design, and execution for my Eagle Scout project, which involved the management of 15 plus people of all ages. As a Chapter Chief and Senior Patrol Leader I have experience organizing and leading meetings to ensure the competition of assigned weekly tasks. All of which led to a multitude of experience working with others.
+        summary = """As a Student learning Computer Science, I enjoy taking on new and interesting challenges to improve my skills. I take pride in my work and am always trying to provide the best result that I can.
+        \nI am currently learning Automation Tooling (Ansible) and machine configuration using Terraform. I am also taking a specific focus on Kubernetes and the automation, configuration, and management of clusters. Additionally, I also have experience with troubleshooting hardware, software, and applications with most major operating systems and other major applications.
+        \nI also have experience with leadership. As an Eagle Scout and member of the Order of the Arrow, I was in charge of the planning, design, and execution for my Eagle Scout project, which involved the management of 15 plus people of all ages. As a Chapter Chief and Senior Patrol Leader, I have experience organizing and leading meetings to ensure the completition of assigned weekly tasks.
         \nI am always seeking new opportunities to develop cohesive systems for users and companies."""
 
     # Experiences section
@@ -139,7 +139,7 @@ disable404 = true
         position = "Team Member"
         dates = "2020 - 2020"
         company = "Chipotle"
-        details = "Team member preparing food orders for customers"
+        details = "Worked as part of a team to prepare customized orders for customers"
 
 
     # Projects section
